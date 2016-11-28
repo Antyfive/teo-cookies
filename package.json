@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Antyfive/teo-cookies/issues"
   },
-  "homepage": "https://github.com/Antyfive/teo-cookies#readme"
+  "homepage": "https://github.com/Antyfive/teo-cookies#readme",
+  "dependencies": {
+    "cookies": "^0.6.2"
+  }
 }
