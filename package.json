@@ -1,0 +1,24 @@
+{
+  "name": "teo-cookies",
+  "version": "1.0.0",
+  "description": "Cookies middleware for Teo.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antyfive/teo-cookies.git"
+  },
+  "keywords": [
+    "Teo.JS",
+    "cookies",
+    "middleware"
+  ],
+  "author": "Andrew Teologov <teologov.and@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antyfive/teo-cookies/issues"
+  },
+  "homepage": "https://github.com/Antyfive/teo-cookies#readme"
+}
