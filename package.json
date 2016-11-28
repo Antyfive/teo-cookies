@@ -13,7 +13,8 @@
   "keywords": [
     "Teo.JS",
     "cookies",
-    "middleware"
+    "middleware",
+    "extension"
   ],
   "author": "Andrew Teologov <teologov.and@gmail.com>",
   "license": "MIT",
