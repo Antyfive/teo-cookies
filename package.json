@@ -1,6 +1,6 @@
 {
   "name": "teo-cookies-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cookies extension for Teo.JS",
   "main": "index.js",
   "scripts": {
